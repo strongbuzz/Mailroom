@@ -1,5 +1,5 @@
 # Mailroom
-Run "MailroomManger.java"
+CSE214-HW3 Runs a MailRoomManager that implements Stacks to demostrate add,remove,display,print,and empty Mailroom "Stack" Piles.
 
 ![Screen Shot 2023-01-14 at 9 23 17 PM](https://user-images.githubusercontent.com/107897025/212519787-80dfce63-4fa9-41ca-b7b6-d1ed9ab5ffdd.png)
 ![Screen Shot 2023-01-14 at 9 24 02 PM](https://user-images.githubusercontent.com/107897025/212519790-fab4a9d6-acb9-41a1-8d0d-b33650d52865.png)
